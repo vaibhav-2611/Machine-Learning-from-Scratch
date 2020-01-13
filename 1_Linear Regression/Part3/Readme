@@ -1,0 +1,85 @@
+HOW TO RUN:
+	python Part3.py
+
+
+OUTPUT FILES:
+	Parameters_10.csv 		: 	Parameters for n in [1,9] when data size = 10
+	Parameters_100.csv 		: 	Parameters for n in [1,9] when data size = 100
+	Parameters_1000.csv 	: 	Parameters for n in [1,9] when data size = 1000
+	Parameters_10000.csv 	: 	Parameters for n in [1,9] when data size = 10000
+	
+
+	Train_Test_Error_10.csv 	:	Contain all the test errors for n in [1,9] when data size = 10
+	Train_Test_Error_100.csv 	:	Contain all the test errors for n in [1,9] when data size = 100
+	Train_Test_Error_1000.csv 	:	Contain all the test errors for n in [1,9] when data size = 1000
+	Train_Test_Error_10000.csv 	:	Contain all the test errors for n in [1,9] when data size = 10000
+	
+
+	Dataset_10.csv			:	Data points generated when data size = 10
+	Dataset_100.csv			:	Data points generated when data size = 100
+	Dataset_1000.csv		:	Data points generated when data size = 1000
+	Dataset_10000.csv		:	Data points generated when data size = 10000
+
+
+	Syn_Data_size_10.png	:	Plot of dataset generated when data size = 10
+	Syn_Data_size_100.png	:	Plot of dataset generated when data size = 100
+	Syn_Data_size_1000.png	:	Plot of dataset generated when data size = 1000
+	Syn_Data_size_10000.png	:	Plot of dataset generated when data size = 10000
+	
+	Train_Test_Squared_Error_10.png 	:	Plot of Train and Test Error when data size = 10
+	Train_Test_Squared_Error_100.png 	:	Plot of Train and Test Error when data size = 100
+	Train_Test_Squared_Error_1000.png 	:	Plot of Train and Test Error when data size = 1000
+	Train_Test_Squared_Error_10000.png 	:	Plot of Train and Test Error when data size = 10000
+
+	LC_Dataset_size_N1.png	: 	Plot of learning curve with changing data set size when N=1
+	LC_Dataset_size_N2.png	: 	Plot of learning curve with changing data set size when N=2
+	LC_Dataset_size_N3.png	: 	Plot of learning curve with changing data set size when N=3
+	LC_Dataset_size_N4.png	: 	Plot of learning curve with changing data set size when N=4
+	LC_Dataset_size_N5.png	: 	Plot of learning curve with changing data set size when N=5
+	LC_Dataset_size_N6.png	: 	Plot of learning curve with changing data set size when N=6
+	LC_Dataset_size_N7.png	: 	Plot of learning curve with changing data set size when N=7
+	LC_Dataset_size_N8.png	: 	Plot of learning curve with changing data set size when N=8
+	LC_Dataset_size_N9.png	: 	Plot of learning curve with changing data set size when N=9
+	
+	Data10_N1.png			: 	Plot of curve when data size = 10 and n=1
+	Data10_N2.png			: 	Plot of curve when data size = 10 and n=2
+	Data10_N3.png			: 	Plot of curve when data size = 10 and n=3
+	Data10_N4.png			: 	Plot of curve when data size = 10 and n=4		
+	Data10_N5.png			: 	Plot of curve when data size = 10 and n=5
+	Data10_N6.png			: 	Plot of curve when data size = 10 and n=6
+	Data10_N7.png			: 	Plot of curve when data size = 10 and n=7
+	Data10_N8.png			: 	Plot of curve when data size = 10 and n=8
+	Data10_N9.png			: 	Plot of curve when data size = 10 and n=9
+
+	Data100_N1.png			: 	Plot of curve when data size = 100 and n=1
+	Data100_N2.png			: 	Plot of curve when data size = 100 and n=2
+	Data100_N3.png			: 	Plot of curve when data size = 100 and n=3
+	Data100_N4.png			: 	Plot of curve when data size = 100 and n=4		
+	Data100_N5.png			: 	Plot of curve when data size = 100 and n=5
+	Data100_N6.png			: 	Plot of curve when data size = 100 and n=6
+	Data100_N7.png			: 	Plot of curve when data size = 100 and n=7
+	Data100_N8.png			: 	Plot of curve when data size = 100 and n=8
+	Data100_N9.png			: 	Plot of curve when data size = 100 and n=9
+	
+	Data1000_N1.png			: 	Plot of curve when data size = 1000 and n=1
+	Data1000_N2.png			: 	Plot of curve when data size = 1000 and n=2
+	Data1000_N3.png			: 	Plot of curve when data size = 1000 and n=3
+	Data1000_N4.png			: 	Plot of curve when data size = 1000 and n=4		
+	Data1000_N5.png			: 	Plot of curve when data size = 1000 and n=5
+	Data1000_N6.png			: 	Plot of curve when data size = 1000 and n=6
+	Data1000_N7.png			: 	Plot of curve when data size = 1000 and n=7
+	Data1000_N8.png			: 	Plot of curve when data size = 1000 and n=8
+	Data1000_N9.png			: 	Plot of curve when data size = 1000 and n=9
+	
+	Data10000_N1.png		: 	Plot of curve when data size = 10000 and n=1
+	Data10000_N2.png		: 	Plot of curve when data size = 10000 and n=2
+	Data10000_N3.png		: 	Plot of curve when data size = 10000 and n=3
+	Data10000_N4.png		: 	Plot of curve when data size = 10000 and n=4		
+	Data10000_N5.png		: 	Plot of curve when data size = 10000 and n=5
+	Data10000_N6.png		: 	Plot of curve when data size = 10000 and n=6
+	Data10000_N7.png		: 	Plot of curve when data size = 10000 and n=7
+	Data10000_N8.png		: 	Plot of curve when data size = 10000 and n=8
+	Data10000_N9.png		: 	Plot of curve when data size = 10000 and n=9
+	
+
+Functions are same as previous one.

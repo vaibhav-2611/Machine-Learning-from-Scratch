@@ -1,0 +1,24 @@
+Note: 
+	Please use the dataset as there in this Folder.
+	I have omitted the extra spaces in the column names present in the given Training and Testing Data.
+
+**********************************************************************
+For Running Part1.py execute in terminal: (try to run by maximizing the terminal window size for better printing of results)
+
+	python Part1.py
+
+**********************************************************************
+For Running Part2.py execute in terminal: (try to run by maximizing the terminal window size for better printing of results)
+
+	python -W ignore Part2.py
+
+
+Note: 	Part2.py will approximately take 10 minutes to run.
+		Because for building tree of larger depth time taken is approximately 25 sec.
+
+
+**********************************************************************
+ALTERNATIVE:
+
+	Run the jupyter notebook "16CS10051.ipynb"
+	This contains both the Part1 and Part2.

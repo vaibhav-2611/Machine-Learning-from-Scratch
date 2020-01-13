@@ -1,0 +1,41 @@
+HOW TO RUN:
+	python Part1.py
+
+
+
+OUTPUT FILES:
+	Parameters.csv 	: 	Contain all the parameters for n in [1,9]
+	Test_Error.csv 	:	Contain all the test errors for n in [1,9]
+	Dataset.csv		:	Contain all the data points generated in part 1)a		
+
+
+There are 5 functions:
+
+	Generate_Synthetic_Dataset:
+		Used to Generate a synthetic dataset. 
+		Input: 	Size of dataset that we want.
+		Output: Return the X and Y i.e. input values {xi} and target values {yi} of size as given in the arguments.
+
+
+	Split_Train_Test(X,Y):
+		Used to split the dataset generated above into training and test data set.
+		Input: 	One dimensional feature, Target values.
+		Output: TrainX, TrainY, TestX, TestY
+
+	gradient_descent(X, Y, alpha, degree, iteration):
+		Used to learn the parameters.
+		Input: 	TrainX, TrainY, learning rate, degree of polynomial, no_of_iterations
+		Output: Return parameters of size (degree of polynomial+1)
+
+	PredictError(X, Y, Thita):
+		Used to Predict the Error when the parameters(weights) are given.
+		Input: 	TestX, TestY, parameters
+		Output:	Return Cost
+
+	DataFrame_Linear_Regression(TrainX, TrainY, TestX, TestY):
+		Used to get all the parameters when n varies from 1 to 9.
+		Input:	TrainX, TrainY, TestX, TestY
+		Output:	DataFrame containing all the parameter values for different n values.
+
+No_of_iterations is taken as 10000
+Size of dataset is taken as 10

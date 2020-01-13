@@ -1,0 +1,16 @@
+For Executing Part1.py run in Terminal:
+	
+	python Part1.py
+
+For Executing Part2.py run in Terminal:
+	
+	python Part2.py
+
+For Executing Part3.py run in Terminal:
+	
+	python Part3.py
+
+There is also a Jupyter NoteBook in this folder, it contains all the 3 parts, names as:
+
+	"16CS10051_ML_A3.ipynb"
+For running this Jupyter NoteBook, open the Jupyter NoteBook in this directory and open "16CS10051_ML_A3.ipynb".

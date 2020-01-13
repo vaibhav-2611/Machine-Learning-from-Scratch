@@ -1,0 +1,20 @@
+Please use the dataset as there in this Folder.
+
+
+
+For Running Part1.py execute in terminal: 
+
+	python Part1.py
+
+
+
+
+For Running Part2.py execute in terminal:
+
+	python Part2.py
+
+
+
+For Looking Both Part1 and Part2 Implementation together, use Jupyter Notebook, "16CS10051_Assign_4.ipynb"
+
+For Running "16CS10051_Assign_4.ipynb", open the terminal and execute "jupyter notebook" and then in the window that comes up select "16CS10051_Assign_4.ipynb".
